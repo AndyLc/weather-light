@@ -13,3 +13,4 @@ IKEA Lamp: https://www.ikea.com/sg/en/catalog/products/20373225/
 Total cost: 8 + 10 + 8 = $26.
 
 YT Video explaining how I built it:
+https://www.youtube.com/watch?v=W9FKDRuV3P0
